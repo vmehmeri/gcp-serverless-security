@@ -30,3 +30,7 @@ Collection of learning resources for securing serverless deployments on GCP.
 [Container Analysis and Vulnerability Scanning](https://cloud.google.com/artifact-registry/docs/analysis) <br/> 
 [Enable Binary Authorization for Cloud Run](https://cloud.google.com/binary-authorization/docs/run/enabling-binauthz-cloud-run) <br/> 
 [Software Delivery Shield with Cloud Run services](https://cloud.google.com/run/docs/securing/software-delivery-shield-panel) <br/> 
+
+## Serveless Security Architecture
+![Serverless Security Architecture](https://github.com/vmehmeri/gcp-serverless-security/blob/main/Serverless%20Security.png?raw=true)
+

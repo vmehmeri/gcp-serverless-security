@@ -17,13 +17,14 @@ Collection of learning resources for securing serverless deployments on GCP.
 
 ## Network and Infrastructure Security
 
-[Lab: Securing Cloud Run Ingress Traffic](https://codelabs.developers.google.com/cloud-run-ingress-deployment#0) <br/> 
 [Restricting ingress for Cloud Run](https://cloud.google.com/run/docs/securing/ingress) <br/> 
 [Using VPC Service Controls for Cloud Run](https://cloud.google.com/run/docs/securing/using-vpc-service-controls) <br/> 
 [Configuring private networking for Cloud Run](https://cloud.google.com/run/docs/securing/private-networking) <br/> 
 [Configuring ingress and egress settings for Cloud Functions](https://cloud.google.com/functions/docs/networking/network-settings) <br/> 
 [Configuring ingress and egress settings for App Engine](https://cloud.google.com/appengine/docs/standard/ingress-settings) <br/> 
 [Cloud Armor with Cloud Run, App Engine, or Cloud Functions](https://cloud.google.com/armor/docs/integrating-cloud-armor#serverless) <br/> 
+[Lab: Securing Cloud Run Ingress Traffic](https://codelabs.developers.google.com/cloud-run-ingress-deployment#0) <br/> 
+[Lab: Cloud Armor Preconfigured WAF Rules](https://www.cloudskillsboost.google/focuses/55895?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=23042248) <br/> 
 
 ## Application Code Security (Software Supply Chain)
 [Using Secrets Manager with Cloud Run](https://cloud.google.com/run/docs/configuring/secrets) <br/> 
